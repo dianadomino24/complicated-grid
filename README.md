@@ -17,8 +17,6 @@ https://dianadomino24.github.io/complicated-grid/
 
 ## :rocket: Technologies
 
--   **JavaScript ES6** - Promises, setTimeOut.
-
 -   semantic **HTML5**, styles - **CSS3** including Flexbox, Grid-layout.
 
 ---
